@@ -1,0 +1,7 @@
+# Root gitignore for Roomora monorepo
+node_modules/
+.env
+.env.local
+*.pem
+.DS_Store
+.vercel
