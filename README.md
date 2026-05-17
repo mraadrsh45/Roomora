@@ -516,7 +516,7 @@ Premium is toggled via `user.isPremium = true` in MongoDB (admin panel or paymen
 | Feature | Free | Premium |
 |---------|------|---------|
 | Roommate matches | 15 | 100 |
-| Smart matches | 20 | 50 |
+| Smart matches | 20 | 50 | 100
 | Location filters | ✅ | ✅ |
 | Budget filter | ✅ | ✅ |
 | Gender filter | ✅ | ✅ |
