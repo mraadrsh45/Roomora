@@ -96,7 +96,7 @@
                          │ Mongoose ODM
                          ▼
               ┌─────────────────────┐
-              │   MongoDB Atlas      │
+              │   MongoDB Atlas     │
               │  users              │
               │  messages           │
               │  conversations      │
